@@ -1,0 +1,5 @@
+interface:
+  display_name: "下周七 · 蓝色手帐网页"
+  short_description: "清透蓝白手帐风格的手机网页、教程步骤页与知识卡片"
+  brand_color: "#9CCFEF"
+  default_prompt: "使用 $xiazhouqi-blue-journal-skill 把我的内容设计成手机端蓝色手帐网页。"
